@@ -1,6 +1,6 @@
 {
     "orion-cli": {
-        "profile": "default",
+        "profile": "es6",
         "config": "private/orion-config.json"
     }
 }

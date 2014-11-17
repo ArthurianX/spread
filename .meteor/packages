@@ -7,7 +7,6 @@ standard-app-packages
 less
 jquery
 underscore
-accounts-password
 aldeed:collection2
 iron:router
 raix:handlebar-helpers
@@ -22,4 +21,10 @@ useraccounts:semantic-ui
 natestrauser:animate-css
 dburles:collection-helpers
 meteorhacks:fast-render
+urigo:angular
+urigo:angular-ui-router
+accounts-password
+accounts-ui
+email
+urigo:angular-google-maps
 
